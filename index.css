@@ -137,7 +137,7 @@
   .gif img {
     width: 350px;
   }
-  @media screen AND (max-width: 576px) {
+  @media and screen  (max-width: 576px) {
     .container {
       width: 100%;
     }
