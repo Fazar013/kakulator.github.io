@@ -175,7 +175,7 @@
       margin-left: 10px;
     }
   }
-  @media screen AND (max-width: 350px) {
+  @media and screen  (max-width: 350px) {
     body {
       overflow: auto;
     }
@@ -186,14 +186,7 @@
       font-size: 20px;
       margin-top: 20px;
     }
-    .gif {
-      margin: 0 auto -100px;
-      width: 100%;
-      text-align: center;
-    }
-    .gif img {
-      width: 300px;
-    }
+    
   }
   @keyframes textScreen {
     from {
